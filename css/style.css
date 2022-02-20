@@ -560,7 +560,6 @@ footer {
 
 #speakers h3 {
   margin-top: 16px;
-  background-color: #002060;
   font-size: 15px;
 }
 
@@ -569,7 +568,9 @@ footer {
   color: #ffffff;
 }
 #speakers h2{
-  color: #002060;
+  color: white;
+  background-color: #002060;
+  font-size: 20px;
 }
 
 #speakers span{
@@ -597,14 +598,14 @@ footer {
 }
 
 #speakers img {
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .nav-tabs {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .nav-tabs > li {
-  float: left;
+  float:inline-start;
   margin-bottom: -1px;
 }
 .nav-tabs > li > a {
@@ -629,10 +630,7 @@ footer {
   border: 1px solid transparent;
   border-bottom-color: #999;
 }
-.tab-content {
-  padding-top: 20px;
-  color: #ff0000;
-}
+
 
 
 
