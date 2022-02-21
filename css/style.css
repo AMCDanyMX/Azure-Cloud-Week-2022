@@ -733,7 +733,7 @@ footer {
 /*---------------------------------------
    slides section              
 -----------------------------------------*/
-section.awSlider .carousel{
+section.awSlidercronogrma .carousel{
   display:table;
   z-index:2;
   -moz-box-shadow: 0 0 4px #444;
@@ -741,7 +741,7 @@ section.awSlider .carousel{
 	box-shadow: 0 0 15px rgba(1,1,1,.5);
 }
 
-section.awSlider{
+section.awSlidercronogrma{
   margin:30px auto;
   padding:30px;
   position:relative;
@@ -754,7 +754,7 @@ section.awSlider{
   user-select: none;
 }
 
-section.awSlider > img{
+section.awSlidercronogrma > img{
   position:absolute;
   top:30px;
   z-index:1;
