@@ -26,5 +26,5 @@ simplyCountdown('#cuenta', {
 	amountClass: 'simply-amount', // amount css class
 	wordClass: 'simply-word', // word css class
 	zeroPad: false,
-	countUp: true
+	countUp: false
 });
